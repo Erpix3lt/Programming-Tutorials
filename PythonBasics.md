@@ -11,7 +11,7 @@ PIPX is now installed, run commands with the following syntsx:
 
 ## Install Python Poetry via PIPX
 
-I found out the hard way on windows. This seems to be the easiest way. 
+I found this out the hard way... This seems to be the easiest way:
 Simply type `python -m pipx install poetry`
 
 Paths etc. are then already installed in the correct way.
